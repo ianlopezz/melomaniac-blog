@@ -249,18 +249,5 @@ body {
   display: none;
 }
 
-a:link,
-a:visited {
-    color: inherit;       
-    text-decoration: none;
-}
-
-a:hover {
-    opacity: 0.8;         
-    text-decoration: none;
-}
 
 
-a:active {
-    opacity: 1.6;
-}
